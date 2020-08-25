@@ -1,12 +1,12 @@
 ## Zoom Clone Codealong
 
 Technologies used:
-Socket.io, node.js, peer.js, express.js
+Socket.io, node.js, peer.js, express.js, uuid
 
-#PLAN OF ACTION
-- Initialize our NodeJS Project
-- Initialize our first view
-- Create a room id
+# PLAN OF ACTION
+- Initialize our NodeJS Project ✅
+- Initialize our first view ✅
+- Create a room id ✅
 - Add the ability to view our own Video
 - Add ability to allow other to stream their video
 - Add styling
