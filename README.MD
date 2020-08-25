@@ -1,7 +1,7 @@
 ## Zoom Clone Codealong
 
 Technologies used:
-Socket.io, node.js, peer.js, express.js, uuid
+Socket.io, node.js, peer.js, express.js, uuid, ejs
 
 # PLAN OF ACTION
 - Initialize our NodeJS Project ✅
