@@ -1,0 +1,24 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Technologies used: Socket.io, node.js, peer.js, express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentin-muller/zoom-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentin-muller/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/valentin-muller/zoom-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
