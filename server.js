@@ -5,7 +5,7 @@ const io = require('socket.io')(server)
 const { v4: uuidv4 } = require("uuid");
 
 const { ExpressPeerServer } = require('peer');
-const { truncate } = require("fs");
+// const { truncate } = require("fs");
 const peerServer = ExpressPeerServer(server, {
     debug: true
 });
