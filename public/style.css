@@ -67,3 +67,32 @@ video {
 .leave_meeting {
     color: #EB534B
 }
+
+
+.main__right {
+    display: flex;
+    flex-direction: column;
+    background-color: #242324;
+    /* border-left:  */
+}
+
+.main__header {
+    color: #F5F5F5;
+    text-align: center;
+}
+
+.main__chat__window {
+    flex-grow: 1;
+}
+
+.main__message__container {
+    padding: 22px 12px;
+    display: flex;
+}
+
+.main__message__container input {
+    flex-grow: 1;
+    background-color: transparent;
+    border: none;
+    color: #F5f5f5;
+}
